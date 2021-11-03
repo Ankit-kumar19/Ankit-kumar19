@@ -1,6 +1,12 @@
-
-<center>Hi there, I'm Ankit</center>
-<!--
+<p align="center">
+<samp>
+ <b>Hi there, I'm Ankit</b>
+      <br>I'm a Computer Engineering Undergraduate Student from India.<br>
+  </samp>
+<hr>
+</p>
+<!-
+-
 **Ankit-kumar19/Ankit-kumar19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
