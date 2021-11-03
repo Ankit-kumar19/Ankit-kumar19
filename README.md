@@ -3,7 +3,7 @@
 <b>Hi there, I'm Ankit</b>
       <br>I'm a Computer Engineering Undergraduate Student from India.<br>
   </samp>
-<hr height=1px>
+<hr height=10px>
 </p>
 <div align="center">
 <i>Follow me:</i><br><br>
