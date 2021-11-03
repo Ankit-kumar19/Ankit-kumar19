@@ -12,7 +12,7 @@
 
 </div>
 <div algin="center">
-      <h2>About Me</h2>
+      <h2 algin="center">About Me</h2>
 </div>
 - :telescope: I'm currently studying BTech in CSE 💻;<br>
 - :hourglass_flowing_sand: Learning Full Stack Dvelopment;<br>
