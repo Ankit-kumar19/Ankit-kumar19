@@ -1,6 +1,6 @@
 <p align="center">
 <samp>
- <h2><b>Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> I'm Ankit</b></h2>
+<b>Hi there, I'm Ankit</b>
       <br>I'm a Computer Engineering Undergraduate Student from India.<br>
   </samp>
 <hr>
