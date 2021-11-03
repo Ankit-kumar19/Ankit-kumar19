@@ -44,3 +44,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 
+
+
+![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankit-kumar19&theme=synthwave&show_icons=true&count_private=true “Andres’ GutHub Stats”)
