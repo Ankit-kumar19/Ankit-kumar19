@@ -14,12 +14,12 @@
 <div algin="center">
       <h2>About Me</h2>
 </div>
-- :telescope: I'm currently studying BTech in CSE 💻;
-- :hourglass_flowing_sand: Learning Full Stack Dvelopment;
-- 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
-- :man_technologist: B.Tech(Computer Science and Engineering); 
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge";
-- 📫 How to reach me: ankitk.cse19@chitkarauniversity.edu.in;
+- :telescope: I'm currently studying BTech in CSE 💻;<br>
+- :hourglass_flowing_sand: Learning Full Stack Dvelopment;<br>
+- 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;<br>
+- :man_technologist: B.Tech(Computer Science and Engineering); <br>
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge";<br>
+- 📫 How to reach me: ankitk.cse19@chitkarauniversity.edu.in;<br>
 
 
 
