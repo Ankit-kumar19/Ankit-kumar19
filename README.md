@@ -12,7 +12,7 @@
 
 </div>
 
-      <h2 algin="center">About Me</h2>
+      <h2>About Me</h2>
       
 - :telescope: I'm currently studying BTech in CSE 💻;<br>
 - :hourglass_flowing_sand: Learning Full Stack Dvelopment;<br>
@@ -20,6 +20,5 @@
 - :man_technologist: B.Tech(Computer Science and Engineering); <br>
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge";<br>
 - 📫 How to reach me: ankitk.cse19@chitkarauniversity.edu.in;<br>
-
 
 
