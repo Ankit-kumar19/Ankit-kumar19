@@ -11,8 +11,11 @@
 <a href="https://dev.to/ankitkcse19" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 </div>
+<h2 align="center"><b>About Me</b></h2>
 
-      <h2>About Me</h2>
+
+
+     
       
 - :telescope: I'm currently studying BTech in CSE 💻;<br>
 - :hourglass_flowing_sand: Learning Full Stack Dvelopment;<br>
