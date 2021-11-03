@@ -6,8 +6,7 @@
 <hr>
 </p>
 <div align="center">
-
-<i>Follow me:</i><br>
+<i>Follow me:</i><br><br>
 <a href="https://www.linkedin.com/in/ankit-kumar-3a69071b6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://dev.to/ankitkcse19" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
