@@ -2,7 +2,7 @@
 <samp>
       <b>Hi there, I'm Ankit</b></h2>
       <p align="center">
-      <br>I'm a Computer Engineering Undergraduate Student from India.<br>
+      I'm a Computer Engineering Undergraduate Student from India.
   </samp>
 </p>
 <div align="center">
