@@ -18,7 +18,7 @@
      
       
 - :telescope: I'm currently studying BTech in CSE 💻;<br>
-- :hourglass_flowing_sand: Learning Full Stack Dvelopment;<br>
+- :hourglass_flowing_sand: Learning MERN Stack;<br>
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;<br>
 - :man_technologist: B.Tech(Computer Science and Engineering); <br>
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge";<br>
