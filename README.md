@@ -22,7 +22,7 @@
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;<br>
 - :man_technologist: B.Tech(Computer Science and Engineering); <br>
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge";<br>
-- 📫 How to reach me: ankitk.cse19@chitkarauniversity.edu.in;<br>
+- 📫 How to reach me: azurewolf.47@gmail.com;<br>
 
 
 ##### Languages I use
